@@ -4,6 +4,11 @@ public class gitreview01 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
+		
+		System.out.println("today we learn git hub");
+		System.out.println("today is a very good day");
+		
+		System.out.println("work");
 
 	}
 
